@@ -2,13 +2,7 @@
 tempCodeRunnerFile*
 hello
 
-# This matches files that end exactly in day_1.X with no extension
-day_1.1
-day_1.2
-day_1.3
-day_1.4
-day_1.5
-day_1.6
-day_1.7
-day_1.8
-day_1.9
+# This matches files that end exactly in day_1.X with no extensio
+day_1.*
+day_2.*
+!*.c
