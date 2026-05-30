@@ -4,7 +4,7 @@ int main(){
 
     int row, col, total, space;
 
-    printf("Enter the Number of rows and columns for the inverted half right triangle pyramid: ");
+    printf("Enter the Number of rows for the triangle pyramid: ");
     scanf("%d", &total);
 
     for(row = 1; row <= total; row++){
